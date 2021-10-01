@@ -1,3 +1,5 @@
+#File written in lieu of simplilearn Python course completion
+
 pace_length = 0.714285714
 
 class Person():
